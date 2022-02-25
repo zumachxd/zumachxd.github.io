@@ -1,0 +1,22 @@
+
+    body { background-color:rgba(7, 185, 117, 0.384);         
+    }
+    h2{ color:rgb(28, 61, 28);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    p { background-color: rgb(78, 184, 99);
+
+    }
+    #foto{ border-radius: 180px;
+        width: 30%;
+        height: 150px; }
+        
+div {
+    text-align: center;
+}
+        
+    
+
+
+
