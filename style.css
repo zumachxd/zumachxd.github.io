@@ -7,7 +7,7 @@
       font-family: Arial, Helvetica, sans-serif;
     }
     
-    .pzt-foto {
+    .pzt-foto { width: 100%;
       background-image: url(patrickarq.jpg);
       background-color: #dee7de;
       height: 500px;
@@ -30,10 +30,11 @@
         p { color:rgb(0, 0, 0);}
     
 
-#img1{ 
-  max-height: 100px;
+#img1{ width: 100%;
+  max-height: 200px;
   display: block;
 position: center;
 }
-p{ text-align: center;}
-
+#f2{
+  text-align: center;
+}
