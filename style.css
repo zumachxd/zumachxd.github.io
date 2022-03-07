@@ -1,7 +1,8 @@
 
      
    
-    body { background-color: #f1f0f0;
+    body { width: 100%;
+      background-color: #f1f0f0;
       margin: 0;
       font-family: Arial, Helvetica, sans-serif;
     }
@@ -10,6 +11,7 @@
       background-image: url(patrickarq.jpg);
       background-color: #dee7de;
       height: 500px;
+      margin-bottom: 50px;
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -28,5 +30,8 @@
         p { color:rgb(0, 0, 0);}
     
 
-
+#img1{ width: 100%;
+  display: block;
+position: center;
+}
 
